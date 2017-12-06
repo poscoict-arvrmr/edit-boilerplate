@@ -1,0 +1,20 @@
+.backButton {
+    position: absolute;
+  }
+
+.container {
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  text-align: center;
+  margin: 20px;
+}
+
+.container h2 {
+  font-size: 2.5rem;
+}
+
+.container a {
+  font-size: 1.5rem;
+}
+
