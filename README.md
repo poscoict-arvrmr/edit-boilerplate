@@ -1,7 +1,7 @@
 Referenced https://github.com/chentsulin/electron-react-boilerplate
 
 # Intro
-## edited the sections below :: react-router/page transition
+### edited the sections below :: react-router/page transition
 - components
 - containers
 - routes.js
@@ -23,3 +23,15 @@ Myfiles.js   |  FilesPage.js     | FilesPage    |"/myfiles" |
 -------------|-------------------|--------------|-----------|
 Settings.js  |  SettingsPage.js  | SettingsPage |"/settings"|
 -------------|-------------------|--------------|-----------|
+
+# Screenshots - 2018.01.08
+
+![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/HomePage.png)
+
+![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/MenuPage.png)
+
+![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/FilesPage.png)
+
+![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/CameraPage.png)
+
+![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/SettingsPage.png)
