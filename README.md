@@ -13,8 +13,6 @@ components   |  containers       | routes.js    | link/path |
 -------------|-------------------|--------------|-----------|
 Home.js      |  HomePage.js      | HomePage     |   "/"     |
 Home.css     |                   |              |           |
--------------|-------------------|--------------|-----------|
-             |                   |              |           |
 -------------|-------------------|--------------|-----------|         
 Mymenu.js    |  MenuPage.js      | MenuPage     |  "/menu"  |
 Mymenu.css   |                   |              |           |
