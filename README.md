@@ -26,12 +26,12 @@ Settings.js  |  SettingsPage.js  | SettingsPage |"/settings"|
 
 # Screenshots - 2018.01.08
 
-![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/HomePage.png)
+![home page](https://github.com/poscoict-arvrmr/edit-boilerplate/blob/master/resources/HomePage.PNG)
 
-![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/MenuPage.png)
+![menu page](https://github.com/poscoict-arvrmr/edit-boilerplate/blob/master/resources/MenuPage.PNG)
 
-![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/FilesPage.png)
+![files page](https://github.com/poscoict-arvrmr/edit-boilerplate/blob/master/resources/FilesPage.PNG)
 
-![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/CameraPage.png)
+![camera page](https://github.com/poscoict-arvrmr/edit-boilerplate/blob/master/resources/CameraPage.PNG)
 
-![alt text](https://github.com/poscoict-arvrmr/edit-boilerplate/tree/master/resources/SettingsPage.png)
+![settings](https://github.com/poscoict-arvrmr/edit-boilerplate/blob/master/resources/SettingsPage.PNG)
