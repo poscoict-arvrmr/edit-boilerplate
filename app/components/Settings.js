@@ -14,6 +14,9 @@ export default class Settings extends Component {
         </div>
         <div className={styles.container} data-tid="container">
           <h2>Settings Page</h2>
+          <p>Account</p>
+          <p>Wi-fi</p>
+          <p>Report</p>
         </div>
       </div>
     );

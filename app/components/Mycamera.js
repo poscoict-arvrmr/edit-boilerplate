@@ -14,7 +14,7 @@ export default class Mycamera extends Component {
         </div>
 
         <div className={styles.container} data-tid="container">
-          <h2>This is Camera Page</h2>
+          <h2>Camera Page</h2>
           <p>Take a Photo</p>
           <p>Record a Video</p>
           <p>Motion Capture</p>
