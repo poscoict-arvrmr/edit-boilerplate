@@ -8,6 +8,7 @@ import MenuPage from './containers/MenuPage';
 import FilesPage from './containers/FilesPage';
 import CameraPage from './containers/CameraPage';
 import SettingsPage from './containers/SettingsPage';
+import SignupPage from './containers/SignupPage';
 
 
 export default () => (
@@ -17,6 +18,7 @@ export default () => (
       <Route path="/myfiles" component={FilesPage} />
       <Route path="/mycamera" component={CameraPage} />
       <Route path="/settings" component={SettingsPage} />
+      <Route path="/signup" component={SignupPage} />
       <Route exact path="/" component={HomePage} />
     </Switch>
   </App>
