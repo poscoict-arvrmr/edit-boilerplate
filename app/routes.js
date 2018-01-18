@@ -17,7 +17,7 @@ export default () => (
       <Route path="/myfiles" component={FilesPage} />
       <Route path="/mycamera" component={CameraPage} />
       <Route path="/settings" component={SettingsPage} />
-      <Route exact path="/" component={HomePage} />
+      <Route path="/" component={HomePage} />
     </Switch>
   </App>
 );
